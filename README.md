@@ -10,7 +10,7 @@ Para ejecutar el modelo realizado por el equipo durante el Datatón, hay que des
 
 * Python 3.0 o más reciente. 
 
-* Una instalación de `Jupyter Notebook` instalada en el ordenador. 
+* Una distribución de `Jupyter Notebook` instalada en el ordenador. 
 
 
 ## Descripción del problema
