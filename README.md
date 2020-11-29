@@ -15,14 +15,17 @@ Para ejecutar el modelo realizado por el equipo durante el Datatón, hay que des
 
 ## Descripción del problema
 
-1. Existencia de 3,625 puntos de demanda de producto. 
+El objetivo es generar un modelo original, escalable y con lógica de negocio que permita proponer un esquema de logística para la repartición de producto proveniente de un Centro de Distribución Regional a lo largo de una semana. 
 
-2. La frecuencia de entrega para estos puntos es variable, variando desde 1 entrega a 3 entregas a la semana. 
+Las restricciones presentadas en el conjunto de datos son las siguientes: 
 
-3. El volumen de demanda por parte de las tiendas es variable. 
+1. Existencia de **3,625** puntos de demanda de producto. 
 
-4. Las entregas que se lleven a cabo en los distintos centros de distribución deben **estar balanceadas**, es decir, por motivos de logística, las entregas llevadas a cabo a lo largo de la semana tienen que ser lo más similares posible en distancia recorrida, volumen de producto entregado y número de paradas realizadas. 
+2. La **frecuencia de entrega para estos puntos es variable**, variando desde 1 entrega a 3 entregas a la semana. 
 
+3. El **volumen de demanda de producto por parte de las tiendas es variable.** 
+
+4. Las entregas que se lleven a cabo en los distintos centros de distribución deben **estar balanceadas**, es decir, por motivos de logística, las entregas llevadas a cabo a lo largo de la semana tienen que ser lo más similares posible en _distancia recorrida_, _volumen de producto entregado_ y _número de paradas realizadas_. 
 
 ## Modelo utilizado. 
 
