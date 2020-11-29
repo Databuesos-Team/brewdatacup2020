@@ -36,3 +36,62 @@ Los modelos de ML y PL utilizados fueron:
 
 3) Introducción de restricciones de balanceo a través del módulo de Python `pulp`, para forzar las condiciones de balanceo en la formación de los clusters de repartición. 
 
+
+# Resultado obtenido
+
+Se obtuvo un modelo con los siguientes resultados: 
+
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Dia </th>
+   <th style="text-align:right;"> No. Paradas </th>
+   <th style="text-align:right;"> Volumen repartido </th>
+   <th style="text-align:right;"> Distancia </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> D1 </td>
+   <td style="text-align:right;"> 666 </td>
+   <td style="text-align:right;"> 9247.000 </td>
+   <td style="text-align:right;"> 7124 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> D2 </td>
+   <td style="text-align:right;"> 656 </td>
+   <td style="text-align:right;"> 8886.000 </td>
+   <td style="text-align:right;"> 5799 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> D3 </td>
+   <td style="text-align:right;"> 650 </td>
+   <td style="text-align:right;"> 9246.667 </td>
+   <td style="text-align:right;"> 7234 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> D4 </td>
+   <td style="text-align:right;"> 676 </td>
+   <td style="text-align:right;"> 8886.833 </td>
+   <td style="text-align:right;"> 7493 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> D5 </td>
+   <td style="text-align:right;"> 653 </td>
+   <td style="text-align:right;"> 9247.500 </td>
+   <td style="text-align:right;"> 6019 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> D6 </td>
+   <td style="text-align:right;"> 676 </td>
+   <td style="text-align:right;"> 8886.000 </td>
+   <td style="text-align:right;"> 7607 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+
