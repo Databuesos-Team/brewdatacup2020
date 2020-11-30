@@ -98,6 +98,8 @@ Los territorios de reparto óptimo obtenidos bajo este método son los siguiente
 ![](https://raw.githubusercontent.com/Databuesos-Team/brewdatacup2020/main/img/mapa_clusters.png)
 
 
+## Presentación
 
+La presentación de 5 diapositivas se puede consultar en este [enlace](https://github.com/Databuesos-Team/brewdatacup2020/raw/main/img/Presentacion%20DBwCup.pdf).
 
 
