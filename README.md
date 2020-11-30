@@ -93,6 +93,9 @@ Se obtuvo un modelo con los siguientes resultados:
 </tbody>
 </table>
 
+Los territorios de reparto óptimo obtenidos bajo este método son los siguientes: 
+
+![](https://raw.githubusercontent.com/Databuesos-Team/brewdatacup2020/main/img/mapa_clusters.png)
 
 
 
